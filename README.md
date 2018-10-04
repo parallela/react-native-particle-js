@@ -13,7 +13,7 @@ Example:
 
 ```javascript
 
-import Particles from 'react-particles-js';
+import {ParticlesView} from 'react-native-particle-js'
 
 
 class App extends Component{
