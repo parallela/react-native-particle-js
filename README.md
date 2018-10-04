@@ -21,7 +21,7 @@ class App extends Component{
   render() {
     return (
       <ParticlesView containerStyle={styles.container}>
-          <Text>mmama's spaghetty</Text>
+          <Text>ReactNative Particles</Text>
       </ParticlesView>
     );
   }
