@@ -1,14 +1,20 @@
 # react-native-particle-js
 a javascript animation for react native, using ParticleJs package
 
-Installation
-npm install --save react-native-particle-js
+## Installation
 
-How to use
-Code
+`npm install react-native-particle-js`
+
+## How to use
+
+### Code
+
 Example:
 
-import {ParticlesView} from 'react-native-particle-js'
+```javascript
+
+import Particles from 'react-particles-js';
+
 
 class App extends Component{
   
@@ -26,7 +32,10 @@ const styles = StyleSheet.create({
     flex:1,
     alignItems: 'center',
     justifyContent: 'center',
-  },
+  }
+}
+
+
 
 
 braught to you by wassimhennoune by <3
