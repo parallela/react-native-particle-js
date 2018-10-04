@@ -1,0 +1,27 @@
+{
+  "name": "react-native-particle-js",
+  "version": "0.0.1",
+  "description": "a javascript animation for react native, using ParticleJs package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "particles",
+    "particleJs",
+    "animation",
+    "javascript",
+    "react",
+    "native"
+  ],
+  "author": "wassimHennoune <ew_hennoune@esi.dz>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wassimhennoune/react-native-particle-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wassimhennoune/react-native-particle-js/issues"
+  },
+  "homepage": "https://github.com/wassimhennoune/react-native-particle-js#readme"
+}
