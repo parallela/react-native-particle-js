@@ -14,14 +14,14 @@
     "react",
     "native"
   ],
-  "author": "wassimHennoune <ew_hennoune@esi.dz>",
+  "author": "Recoded by parallela > Author: wassimHennoune <ew_hennoune@esi.dz>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wassimhennoune/react-native-particle-js.git"
+    "url": "git+https://github.com/parallela/react-native-particle-js.git"
   },
   "bugs": {
-    "url": "https://github.com/wassimhennoune/react-native-particle-js/issues"
+    "url": "https://github.com/parallela/react-native-particle-js/issues"
   },
-  "homepage": "https://github.com/wassimhennoune/react-native-particle-js#readme"
+  "homepage": "https://github.com/parallela/react-native-particle-js#readme"
 }
